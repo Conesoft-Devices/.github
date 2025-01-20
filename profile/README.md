@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the repositories of all Conesoft Devices
 
 <!--
 
